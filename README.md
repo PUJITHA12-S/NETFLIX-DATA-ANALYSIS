@@ -6,6 +6,7 @@
 * Problem Statement
 * Objective
 * Dataset Overview
+* Tools
 * Data Cleaning
 * Basic EDA And Non-Graph Analysis
 * Graph analysis
@@ -42,6 +43,20 @@ The dataset contains information on all movies and TV shows available on Netflix
 # Data Loading
 Data cleaning in Python is the process of preparing raw data for analysis by fixing errors and inconsistencies. It includes handling missing values, correcting data types, and removing duplicates. This step ensures the dataset is accurate, complete, and reliable. Libraries like Pandas and
 NumPy are widely used for these tasks.
+
+#Tools
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* WorldCloud
+* Powerbi for Dashboard
+
+# Data Cleaning
+# In the initial data preparation phase, we performed the following tasks:
+* Data loading and Inspection
+* Handling missing values
+* Data Cleaning and Formatting
 
 # Non Graphical Analysis 
 * 1.What type of content is available in different countries?
